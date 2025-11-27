@@ -1,88 +1,92 @@
-# Hi there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) I'm Thanakorn Bunsin
-
-## 🚀 About Me
-I'm a 2nd year Computer Science student at KMITL with a passion for cybersecurity and ethical hacking. I love solving challenging problems and sharing my knowledge through detailed CTF writeups.
-
-* 🎓 2nd Year Computer Science Student at King Mongkut's Institute of Technology Ladkrabang (KMITL)
-* 🌍 Based in Bangkok, Thailand
-* 🔐 Cybersecurity enthusiast specializing in Capture The Flag (CTF) competitions
-* 📝 I document my CTF solutions and security research at [blog.kiwwy.dev](https://blog.kiwwy.dev/)
-* 🏆 Active participant in cybersecurity competitions and challenges
-
-## 🛠️ Tech Stack
-
-### Languages
-<p align="left">
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://www.lua.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/lua-colored.svg" width="36" height="36" alt="Lua" /></a>
-<a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a>
-<a href="https://docs.microsoft.com/en-us/cpp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a>
-</p>
-
-### Tools & Technologies
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a>
-<a href="https://nginx.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nginx-colored.svg" width="36" height="36" alt="Nginx" /></a>
-<a href="https://www.kali.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a>
-<a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/gnubash.svg" width="36" height="36" alt="Bash" /></a>
-<a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a>
-</p>
-
-## 📊 GitHub Stats
-
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KiwwyIsDev&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" />
+
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+
+  <h1 align="center">Hi there, I'm Thanakorn Bunsin <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u9z/hvRJCLFzcuMiCv8u9z.gif" width="35"></h1>
+
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=CS+Student+%40+KMITL;CTF+Player+%26+Researcher;Ethical+Hacker;Binary+Exploitation+Lover" alt="Typing SVG" />
+  </a>
+
+  <p align="center">
+    <b>CS Student @ KMITL 🇹🇭 | Cybersecurity Enthusiast 🔐 | CTF Player 🚩</b>
+  </p>
+
+  <p align="center">
+    <a href="https://blog.kiwwy.dev" target="_blank">
+      <img src="https://img.shields.io/badge/Website-blog.kiwwy.dev-2ea44f?style=for-the-badge&logo=ghost" alt="Website" />
+    </a>
+    <a href="mailto:your-email@example.com">
+      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
+    </a>
+  </p>
+
 </div>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwwyIsDev&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages&layout=compact" alt="Top Languages" />
-</div>
+---
+
+### 🚀 **About Me**
+
+I'm a **2nd year Computer Science student at KMITL** with a burning passion for **Cybersecurity** and **Ethical Hacking**. I love diving into low-level systems, breaking codes, and analyzing vulnerabilities.
+
+- 🎓 **Education:** 2nd Year CS at **King Mongkut's Institute of Technology Ladkrabang (KMITL)**
+- 🌍 **Location:** Based in **Bangkok, Thailand**
+- 🔐 **Specialization:** Capture The Flag (CTF), Web Security, and Binary Exploitation
+- 📝 **Writeups:** I document my journey at [**blog.kiwwy.dev**](https://blog.kiwwy.dev/)
+- 🏆 **Goal:** To make the digital world safer (and pop some shells along the way).
+
+---
+
+### 🛠️ **Tech Stack & Arsenal**
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwwyIsDev&theme=radical&hide_border=true" alt="GitHub Streak" />
+
+  <img src="https://skillicons.dev/icons?i=python,c,cpp,assembly,js,ts,go,rust&theme=dark" />
+  <br/><br/>
+  <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,bash,vim,vscode,wireshark&theme=dark" />
+  
 </div>
 
-## 📝 Latest CTF Writeups
-<!-- BLOG-POST-LIST:START -->
-🔍 Check out my latest cybersecurity challenges and solutions on my blog!
-<!-- BLOG-POST-LIST:END -->
+---
 
-## 🤝 Connect with Me
+### 🔐 **Cybersecurity Focus Areas**
 
-<p align="left">
-<a href="https://blog.kiwwy.dev/" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/CTF_Blog-FF5722?style=for-the-badge&logo=hackthebox&logoColor=white" alt="CTF Blog" />
-</a>
-<a href="https://www.github.com/KiwwyIsDev" target="_blank" rel="noreferrer">
-  <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
-</a>
-<!-- Add more social links as needed -->
-</p>
+| **Category** | **Description** |
+| :--- | :--- |
+| 🌐 **Web Security** | OWASP Top 10, XSS, SQLi, SSRF, and finding logic bugs. |
+| 🐛 **Binary Exploitation** | Stack/Heap Overflow, ROP Chains, and bypassing mitigations. |
+| 🧩 **Reverse Engineering** | Disassembling binaries with Ghidra/IDA to understand logic. |
+| 🔐 **Cryptography** | Breaking weak ciphers, RSA attacks, and analyzing padding oracles. |
+| 🕵️ **Forensics** | Analyzing memory dumps, network traffic (PCAP), and disk images. |
 
-## 🔐 Cybersecurity Focus Areas
+---
 
-- **Web Application Security** - Finding and exploiting web vulnerabilities
-- **Binary Exploitation** - Reverse engineering and pwning challenges  
-- **Cryptography** - Breaking and analyzing cryptographic implementations
-- **Forensics** - Digital investigation and evidence analysis
-- **Network Security** - Understanding and securing network communications
+### 📊 **GitHub Stats**
 
-## 🎯 CTF Achievements
-- 🏅 Regular participant in online CTF competitions
-- 📚 Detailed writeups helping the cybersecurity community learn
-- 🔧 Developing custom tools and scripts for security research
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=KiwwyIsDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwwyIsDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwwyIsDev&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+</div>
+
+---
+
+### 📝 **Latest CTF Writeups**
+
+* [Check out my latest solutions on blog.kiwwy.dev](https://blog.kiwwy.dev/)
+* Currently learning: **Kernel Exploitation** & **Advanced Heap techniques**
 
 ---
 
 <div align="center">
-  <img src="https://komarev.com/ghpvc/?username=KiwwyIsDev&label=Profile%20views&color=0e75b6&style=flat" alt="Profile Views" />
-</div>
-
-<div align="center">
   
-  **Thanks for visiting! 🔐**
+  **Thanks for visiting! Happy Hacking! 👾**
   
-  *Check out my CTF writeups and don't forget to ⭐ repositories you find useful!*
+  <img src="https://github.com/KiwwyIsDev/KiwwyIsDev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
   
 </div>
