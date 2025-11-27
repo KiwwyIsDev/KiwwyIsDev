@@ -41,7 +41,7 @@ I'm a **2nd year Computer Science student at KMITL** with a burning passion for 
 
 <div align="center">
 
-  <img src="https://skillicons.dev/icons?i=python,c,cpp,js,ts,svelte,nextjs,html,css&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,lua,c,java&theme=dark" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,bash,vim,vscode,wireshark&theme=dark" />
   
