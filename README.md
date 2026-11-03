@@ -2,10 +2,6 @@
 
 <h1>Hi, I'm Thanakorn Bunsin (ธนกร บุญสินธุ์)</h1>
 
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=CS+Student+%40+KMITL;CTF+Player;Web+Security+%2B+Pwn" alt="Typing SVG" />
-</a>
-
 <p><b>3rd year CS @ KMITL | CTF player | Bangkok, Thailand</b></p>
 
 <a href="https://medium.com/@kiwwy" target="_blank">
@@ -35,43 +31,6 @@ I'm a 3rd year Computer Science student at KMITL (King Mongkut's Institute of Te
 - 2026 - Finalist, STDiO CTF 2026 (2600 Thailand)
 - 2026 - MVP (team Shadow Sentinel), Mini CTF at NCSA CTF Boot Camp 2026 #1
 - 2025-2026 - 4th place at SECPlayground Cyber Splash 2026 (96 teams) and Bloody Xmas 2025 (77 teams)
-
----
-
-### Tools
-
-<div align="center">
-
-  <img src="https://skillicons.dev/icons?i=python,lua,c,java&theme=dark" />
-  <br/><br/>
-  <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,bash,vim,vscode,wireshark&theme=dark" />
-
-</div>
-
----
-
-### What I work on
-
-| Area | Notes |
-| :--- | :--- |
-| Web | OWASP Top 10, XSS, SQLi, SSRF, logic bugs |
-| Pwn | stack/heap overflows, ROP, getting around mitigations |
-| Reversing | Ghidra and IDA |
-| Crypto | weak ciphers, RSA attacks, padding oracles |
-| Forensics | memory dumps, PCAPs, disk images |
-
----
-
-### Stats
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiwwyIsDev&theme=radical" alt="profile details" />
-</div>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiwwyIsDev&theme=radical" height="180" alt="stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KiwwyIsDev&theme=radical" height="180" alt="languages" />
-</div>
 
 ---
 
