@@ -65,14 +65,12 @@ I'm a 3rd year Computer Science student at KMITL (King Mongkut's Institute of Te
 ### Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=KiwwyIsDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KiwwyIsDev&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=KiwwyIsDev&theme=radical" alt="profile details" />
 </div>
 
-<br/>
-
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=KiwwyIsDev&theme=radical&hide_border=true&background=0D1117" alt="streak" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=KiwwyIsDev&theme=radical" height="180" alt="stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=KiwwyIsDev&theme=radical" height="180" alt="languages" />
 </div>
 
 ---
