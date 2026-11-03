@@ -1,67 +1,68 @@
 <div align="center">
 
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100" />
+<h1>Hi, I'm Thanakorn Bunsin (ธนกร บุญสินธุ์)</h1>
 
-  <h1 align="center">Hi there, I'm Thanakorn Bunsin <img src="https://media.giphy.com/media/hvRJCLFzcuMiCv8u9z/hvRJCLFzcuMiCv8u9z.gif" width="35"></h1>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=CS+Student+%40+KMITL;CTF+Player;Web+Security+%2B+Pwn" alt="Typing SVG" />
+</a>
 
-  <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=20C20E&center=true&vCenter=true&width=435&lines=CS+Student+%40+KMITL;CTF+Player+%26+Researcher;Ethical+Hacker;Binary+Exploitation+Lover" alt="Typing SVG" />
-  </a>
+<p><b>3rd year CS @ KMITL | CTF player | Bangkok, Thailand</b></p>
 
-  <p align="center">
-    <b>CS Student @ KMITL 🇹🇭 | Cybersecurity Enthusiast 🔐 | CTF Player 🚩</b>
-  </p>
-
-  <p align="center">
-    <a href="https://blog.kiwwy.dev" target="_blank">
-      <img src="https://img.shields.io/badge/Website-blog.kiwwy.dev-2ea44f?style=for-the-badge&logo=ghost" alt="Website" />
-    </a>
-    <a href="mailto:your-email@example.com">
-      <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail" alt="Email" />
-    </a>
-  </p>
+<a href="https://medium.com/@kiwwy" target="_blank">
+  <img src="https://img.shields.io/badge/Writeups-medium.com%2F%40kiwwy-000000?style=for-the-badge&logo=medium" alt="Medium" />
+</a>
 
 </div>
 
 ---
 
-### 🚀 **About Me**
+### About
 
-I'm a **2nd year Computer Science student at KMITL** with a burning passion for **Cybersecurity** and **Ethical Hacking**. I love diving into low-level systems, breaking codes, and analyzing vulnerabilities.
+I'm a 3rd year Computer Science student at KMITL (King Mongkut's Institute of Technology Ladkrabang). Mostly I play CTFs and poke at web apps, and lately I've been getting into low level stuff.
 
-- 🎓 **Education:** 2nd Year CS at **King Mongkut's Institute of Technology Ladkrabang (KMITL)**
-- 🌍 **Location:** Based in **Bangkok, Thailand**
-- 🔐 **Specialization:** Capture The Flag (CTF), Web Security, and Binary Exploitation
-- 📝 **Writeups:** I document my journey at [**blog.kiwwy.dev**](https://blog.kiwwy.dev/)
-- 🏆 **Goal:** To make the digital world safer (and pop some shells along the way).
+- Team: MhaRowMai
+- Main stuff: web security, binary exploitation, reversing, a bit of crypto and forensics
+- Writeups: [medium.com/@kiwwy](https://medium.com/@kiwwy)
+- Learning right now: kernel exploitation and heap tricks
 
 ---
 
-### 🛠️ **Tech Stack & Arsenal**
+### Achievements
+
+- 2026 - [CVE-2026-2486](https://nvd.nist.gov/vuln/detail/CVE-2026-2486), stored XSS in Master Addons for Elementor (WordPress plugin), fixed in 2.1.2
+- 2026 - 1st place (156 teams) and MVP, Wan Lai CTF Challenge (DropCTF) with team Som
+- 2026 - 3rd place, Archa CTF 2026 with MhaRowMai ([writeup](https://medium.com/@kiwwy/archa-ctf-2026-write-up-d1518fabf492))
+- 2026 - Finalist, STDiO CTF 2026 (2600 Thailand)
+- 2026 - MVP (team Shadow Sentinel), Mini CTF at NCSA CTF Boot Camp 2026 #1
+- 2025-2026 - 4th place at SECPlayground Cyber Splash 2026 (96 teams) and Bloody Xmas 2025 (77 teams)
+
+---
+
+### Tools
 
 <div align="center">
 
   <img src="https://skillicons.dev/icons?i=python,lua,c,java&theme=dark" />
   <br/><br/>
   <img src="https://skillicons.dev/icons?i=linux,kali,docker,git,bash,vim,vscode,wireshark&theme=dark" />
-  
+
 </div>
 
 ---
 
-### 🔐 **Cybersecurity Focus Areas**
+### What I work on
 
-| **Category** | **Description** |
+| Area | Notes |
 | :--- | :--- |
-| 🌐 **Web Security** | OWASP Top 10, XSS, SQLi, SSRF, and finding logic bugs. |
-| 🐛 **Binary Exploitation** | Stack/Heap Overflow, ROP Chains, and bypassing mitigations. |
-| 🧩 **Reverse Engineering** | Disassembling binaries with Ghidra/IDA to understand logic. |
-| 🔐 **Cryptography** | Breaking weak ciphers, RSA attacks, and analyzing padding oracles. |
-| 🕵️ **Forensics** | Analyzing memory dumps, network traffic (PCAP), and disk images. |
+| Web | OWASP Top 10, XSS, SQLi, SSRF, logic bugs |
+| Pwn | stack/heap overflows, ROP, getting around mitigations |
+| Reversing | Ghidra and IDA |
+| Crypto | weak ciphers, RSA attacks, padding oracles |
+| Forensics | memory dumps, PCAPs, disk images |
 
 ---
 
-### 📊 **GitHub Stats**
+### Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=KiwwyIsDev&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" height="180" alt="stats" />
@@ -76,17 +77,8 @@ I'm a **2nd year Computer Science student at KMITL** with a burning passion for 
 
 ---
 
-### 📝 **Latest CTF Writeups**
-
-* [Check out my latest solutions on blog.kiwwy.dev](https://blog.kiwwy.dev/)
-* Currently learning: **Kernel Exploitation** & **Advanced Heap techniques**
-
----
-
 <div align="center">
-  
-  **Thanks for visiting! Happy Hacking! 👾**
-  
-  <img src="https://github.com/KiwwyIsDev/KiwwyIsDev/blob/output/github-contribution-grid-snake.svg" alt="snake animation" />
-  
+
+Thanks for stopping by. Happy hacking.
+
 </div>
